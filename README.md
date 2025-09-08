@@ -1,5 +1,5 @@
 # 2025 Geoscience Hackathon
-#####Reference repository containing documentation and resources for the 2025 Geoscience Hackathon at UT Austin.
+
 
 
 <img src="logo.png" style="background-color:white;">
