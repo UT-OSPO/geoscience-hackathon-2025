@@ -10,7 +10,7 @@
 
 ## Getting Started
 ### 1. Join the Discord
-We have a Discord server for receiving notifications during the hackathon and communicating with your team, mentors, and event organizers. The link for this Discord will be added below prior to the start of the hackathon.
+We have a Discord server for receiving notifications during the hackathon and communicating with your team, mentors, and event organizers. The link for this Discord is: https://discord.gg/dq3ZyqG3
 
 ### 2. Choose a team name
 Choose wisely. Send a message on Discord once you and your team have decided.
