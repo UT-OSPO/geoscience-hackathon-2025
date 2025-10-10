@@ -9,6 +9,10 @@
 ---
 
 ## Getting Started
+
+### 1. Review introduction slides
+Read over the [introduction presentation slides](https://docs.google.com/presentation/d/1jC0ckFaHLlW2ic57v3zUXiyLctW0emY4/edit?slide=id.g38ad0363cb7_0_316#slide=id.g38ad0363cb7_0_316) if you weren't able to attend the Friday morning presentation or if you would like to review the information that was covered about the organization of the hackathon and basics of open source software.
+
 ### 1. Join the Discord
 We have a Discord server for receiving notifications during the hackathon and communicating with your team, mentors, and event organizers. The link for this Discord is: https://discord.gg/dq3ZyqG3
 
