@@ -30,18 +30,19 @@ A panel of external judges evaluated the results.
 - Project: Evaluating time shifts for seismic monitoring with coda-wave interferometry
 - Repository: https://github.com/Cameron4814/Geoscience-Hackathon-2025
 
-**Team GLT4**
-- **2nd Place Award**
-- Members: Zulkuf Azizoglu, Fehmi Özbayrak, and Çınar Turhan
-- Mentor: Zoltán Sylvester
-- Reproduced papers:  Influence of texture on porosity and permeability of unconsolidated sand (Beard and Weyl, 1973), Quantitative textural analysis (Taylor et al., 2022)
-- Repository: https://github.com/fozba/glt4_geoscience_hackathon
+**Team seapsychos**
+- **1st Place Award**
+- Members: Eric Richardson, Raymond Luong, and V. Sebastian Utama
+- Mentor: Xuesong Ding
+- Project: Earth surface change over time in response to sea-level changes 
+- Repository: https://github.com/e-rich18/seapsycho/
 
-**Team Well Logged**
-- Members: Leena Abdulqader, Mariah Gardner, Matheos Giakoumi, Gabriel Ojo, and Manav Patel
-- Mentors: Brendon Hall and Ben Lasscock
-- Reproduced papers: Scale-space filtering (Witkin, 1987), Improving automated geological logging of drill holes by incorporating multiscale spatial methods (Hill et al., 2021)
-- Repository: https://github.com/brendonhall/blockhead
+**Team Cyclothematicians**
+- **Audience Choice Award**
+- Members: Manoj Kumar, Sabrina Reichert, and Vineet Burugu
+- Mentor: Toti Larson
+- Project: Predicting cyclothems using mineralogy and wireline data: implications for basin characterization and identification of pay
+- Repository: https://github.com/vineet640/geoscience_hackathon
 
 **Team SoundFX** 
 - **Audience Choice Award**
