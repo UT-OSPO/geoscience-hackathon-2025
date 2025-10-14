@@ -44,16 +44,23 @@ A panel of external judges evaluated the results.
 - Project: Predicting cyclothems using mineralogy and wireline data: implications for basin characterization and identification of pay
 - Repository: https://github.com/vineet640/geoscience_hackathon
 
-**Team SoundFX** 
-- **Audience Choice Award**
-- Members: Héctor Antonio Corzo Pola and Sujith Swaminadhan
-- Mentor: Sergey Fomel 
-- Reproduced papers: Seismic trace interpolation in the FX domain (Spitz, 1991), Comparisons of interpolation methods (Abma and Kabir, 2005)
-- Repository: https://github.com/ahay/src/tree/master/book/hackathon/soundfx2024
+**Team Back to the Future** 
+- Members: Vince Ing and Yusuf Ali
+- Mentor: Richard Ketcham
+- Project: Mapping topography back through time
+- Repository: https://github.com/vince-ing/reverse-topo-gen
+
+**Team Alpha** 
+- **2nd Place Award**
+- Members: Xihan Yao, Koutian Wu, and Rushi Bhatt
+- Mentor: Brendon Hall
+- Project: Tracking Earth's changes with AlphaEarth foundations
+- Repository: https://github.com/ktwu01/AlphaEarthHack
 
 # Judges
 
-- Victor Eijkhout (Texas Advanced Computing Center)
-- Troy Hawkes (Chevron)
-- Zhengxue Li (ConocoPhillips)
-- Nadine Miner (Sandia National Labs)
+- Cody Antunez (UT Enterprise Technology)
+- Haibin Di (SLB)
+- Konstantin Osypov (Haliburton)
+- Xiaolei Song (BP)
+- Jennifer Schopf (Texas Advanced Computing Center)
