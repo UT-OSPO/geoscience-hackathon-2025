@@ -14,21 +14,21 @@ A panel of external judges evaluated the results.
 
 **Team Timeless** 
 - Members: Fehmi Ozbayrak and Yevgeny Samarkin
-- Mentors: Ben Lasscock, Brendon Hall
+- Mentors: Ben Lasscock and Brendon Hall
 - Project: An interactive AI tool to find structures on Earth https://ee-ozbayrakfehmi.projects.earthengine.app/view/semantic-search-engine
 - Repository: https://github.com/fozba/geoscience_hackathon_2025
 
-**Team PINN Wheels**
-- Members: Ahmed-Wassim Benzerga, Mateo Garcia-Rosell, and Willow Stenglein
-- Mentor: Manmeet Singh
-- Reproduced paper: Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations (Raissi et al., 2019)
-- Repository: https://github.com/wxssbxss0/Geoscience-Hackathon-Fall-24
+**Team G-3**
+- Members: Zara Ike and Tolulope Agbaje
+- Mentors: Yangkang Chen, Nam Pham, and Altay Sansal 
+- Project: GeoDiffuse: Noise to image through time
+- Repository: https://github.com/zaraike/JSGHack25-G3
 
-**Team Texas Texture Testers**
-- Members: Riley Foster, Juan Gutiérrez, and Olivia Wachob
-- Mentor: Zoltán Sylvester
-- Reproduced papers:  Influence of texture on porosity and permeability of unconsolidated sand (Beard and Weyl, 1973), Quantitative textural analysis (Taylor et al., 2022)
-- Repository: https://github.com/owachob/grain_analyzer
+**Team SeisΔt**
+- Members: Cameron Luo and Alex Zhurkevich
+- Mentor: Sergey Fomel
+- Project: Evaluating time shifts for seismic monitoring with coda-wave interferometry
+- Repository: https://github.com/Cameron4814/Geoscience-Hackathon-2025
 
 **Team GLT4**
 - **2nd Place Award**
