@@ -12,12 +12,11 @@ A panel of external judges evaluated the results.
 
 # Projects
 
-**Team Surfers** 
-- **1st Place Award**
-- Members: Neelarun Mukherjee, Amber Nguyen, and Akshika Rohatgi
-- Mentor: Yangkang Chen
-- Reproduced paper: Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations (Raissi et al., 2019)
-- Repository: https://github.com/arohatgi29/Team_Surfers_Geoscience_Hackathon2024
+**Team Timeless** 
+- Members: Fehmi Ozbayrak and Yevgeny Samarkin
+- Mentors: Ben Lasscock, Brendon Hall
+- Project: An interactive AI tool to find structures on Earth https://ee-ozbayrakfehmi.projects.earthengine.app/view/semantic-search-engine
+- Repository: https://github.com/fozba/geoscience_hackathon_2025
 
 **Team PINN Wheels**
 - Members: Ahmed-Wassim Benzerga, Mateo Garcia-Rosell, and Willow Stenglein
