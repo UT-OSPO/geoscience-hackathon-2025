@@ -1,6 +1,8 @@
 <img src="logo.png" style="background-color:white;">
 
-The first Geoscience Hackathon, organized by the Jackson School of Geosciences and the Open-Souce Program Office at the University of Texas at Austin, took place on **October 4-6, 2024** at the Scholars Lab of the Perry-Castañeda Library. ConocoPhillips and Sandia National Labs sponsored the event. 
+The second annual Geoscience Hackathon, organized by the Jackson School of Geosciences and the Open-Source Program Office at the University of Texas at Austin, took place on **October 10-12, 2025** at the Scholars Lab of the Perry-Castañeda Library. 
+
+ConocoPhillips and Sandia National Labs sponsored the event. 
 
 ![](group-photo.jpg)
 
