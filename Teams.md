@@ -6,7 +6,7 @@ ConocoPhillips and Sandia National Labs sponsored the event.
 
 ![](group-photo.jpg)
 
-The theme of the hackathon was computational reproducibility. Around 20 students split into teams and worked on creative projects reproducing and extending computational results from previously published classic geoscience papers.
+The theme of the hackathon was **change over time**. Around 20 students split into teams and worked on creative projects analyzing changes in Earth’s systems that happen both in real-time and over millions of years in geological time. 
 
 A panel of external judges evaluated the results. 
 
