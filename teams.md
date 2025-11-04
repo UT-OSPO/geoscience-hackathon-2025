@@ -32,21 +32,20 @@
 - Project: An interactive AI tool to find structures on Earth
 - Repository: https://github.com/zaraike/JSGHack25-G3
 
-  
 **Team Timeless**
 - Members: Zara Ike, Tolulope Agbaje
-- Mentors: Yangkang Chen, Nam Pham, Altay
+- Mentors: Yangkang Chen, Nam Pham, Altay Sansal
 - Project: GeoDiffuse: Noise to image through time
 - Repository: https://github.com/fozba/geoscience_hackathon_2025
 
-- **Team Seis∆t	**
+**Team Seis∆t	**
 - Members: Alex Zhurkevich, Cameron Luo
 - Mentor: Sergey Fomel
 - Project: Evaluating Time Shifts for Seismic Monitoring with Coda-Wave Interferometry
 - Repository: https://github.com/Cameron4814/Geoscience-Hackathon-2025
 
-- **Back to the Future**
-- Members: Vince, Yusof
+**Back to the Future**
+- Members: Vince, Yusuf Ali
 - Mentor: Richard Ketcham
 - Project: Predict topography backwards in time for a set of concise cross sections 
 - Repository: https://github.com/vince-ing/reverse-topo-gen
